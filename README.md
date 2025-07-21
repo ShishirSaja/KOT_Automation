@@ -1,9 +1,3 @@
-It looks like you've got a great project for automating a Kitchen Order Ticket (KOT) system\! Based on your description and the provided file names, I can put together a comprehensive README.md for your project.
-
-Here's a draft README.md file that you can use. I've structured it to include key sections like Description, Features, Technologies Used, Setup, Usage, and Screenshots, as you requested.
-
------
-
 # KOT Automation System
 
 A full-stack application designed to automate the Kitchen Order Ticket (KOT) system in restaurants, streamlining the order placement, kitchen management, and billing processes.
