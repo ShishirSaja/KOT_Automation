@@ -143,35 +143,39 @@ The application provides different interfaces for various restaurant staff roles
 
 Upon launching the application, you will be presented with the main page, offering three distinct options: Captain, Supervisor, and Generate Bill.
 
-\<img src="./screenshots/home.png" alt="Main Page" width="600"/\>
+<img src="./screenshots/home.png" alt="Main Page" width="600">
 
 ### Captain Dashboard (Order Taking)
 
 The Captain logs in here to take new orders. They will input the table number and select the food items along with their quantities.
 
-\<img src="./screenshots/captain.png" alt="Captain Dashboard" width="600"/\>
+<img src="./screenshots/captain.png" alt="Captain Dashboard" width="600">
 
 ### Supervisor Dashboard (Kitchen View)
 
 The Kitchen Supervisor accesses this page to view all incoming orders. They can monitor the order details and update the status of each item as it progresses through preparation to being ready.
 
-\<img src="./screenshots/supervisor.png" alt="Supervisor Dashboard - Orders Pending" width="600"/\>
+<img src="./screenshots/supervisor.png" alt="Supervisor Dashboard - Orders Pending" width="600">
 
 
 ### Generate Bill (Receptionist)
 
 The Receptionist uses this feature to generate bills. They select the table number, and the system retrieves the corresponding order details to prepare the final bill.
 
-\<img src="./screenshots/generate.png" alt="Generate Bill Page" width="600"/\>
-\<img src="./screenshots/generateBill.png" alt="Generated Bill" width="600"/\>
+<img src="./screenshots/generate.png" alt="Generate Bill Page" width="600">
+<img src="./screenshots/generateBill.png" alt="Generated Bill" width="600">
 
 ## Screenshots
 
   * **Main Page:**
+  * <img src="./screenshots/home.png" alt="Main Page" width="600">
   * **Captain Dashboard (Order Entry):**
-  * **Supervisor Dashboard (Pending Orders):**
-  * **Supervisor Dashboard (Processed Orders):**
+  * <img src="./screenshots/captain.png" alt="Captain Dashboard" width="600">
+  * **Supervisor Dashboard :**
+  * <img src="./screenshots/supervisor.png" alt="Supervisor Dashboard - Orders Pending" width="600">
   * **Generate Bill Page:**
+  * <img src="./screenshots/generate.png" alt="Generate Bill Page" width="600">
   * **Generated Bill Example:**
+  * <img src="./screenshots/generateBill.png" alt="Generated Bill" width="600">
 
 -----
