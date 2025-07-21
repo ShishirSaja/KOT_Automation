@@ -3,17 +3,16 @@
 A full-stack application designed to automate the Kitchen Order Ticket (KOT) system in restaurants, streamlining the order placement, kitchen management, and billing processes.
 
 ## Table of Contents
-
-  - [Description](https://www.google.com/search?q=%23description)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-  - [Setup](https://www.google.com/search?q=%23setup)
-  - [Usage](https://www.google.com/search?q=%23usage)
-      - [Main Page](https://www.google.com/search?q=%23main-page)
-      - [Captain Dashboard (Order Taking)](https://www.google.com/search?q=%23captain-dashboard-order-taking)
-      - [Supervisor Dashboard (Kitchen View)](https://www.google.com/search?q=%23supervisor-dashboard-kitchen-view)
-      - [Generate Bill (Receptionist)](https://www.google.com/search?q=%23generate-bill-receptionist)
-  - [Screenshots](https://www.google.com/search?q=%23screenshots)
+  - [Description](#description)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Setup](#setup)
+  - [Usage](#usage)
+      - [Main Page](#mainp-page)
+      - [Captain Dashboard (Order Taking)](#captain-dashboard)
+      - [Supervisor Dashboard (Kitchen View)](#supervisor-dashboard--kitchen-View-)
+      - [Generate Bill (Receptionist)](#generate-bill-(receptionist))
+  - [Screenshots](#screenshots)
 
 ## Description
 
