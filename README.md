@@ -9,9 +9,9 @@ A full-stack application designed to automate the Kitchen Order Ticket (KOT) sys
   - [Setup](#setup)
   - [Usage](#usage)
       - [Main Page](#main-page)
-      - [Captain Dashboard (Order Taking)](#captain-dashboard)
-      - [Supervisor Dashboard (Kitchen View)](#supervisor-dashboard--kitchen-View-)
-      - [Generate Bill (Receptionist)](#generate-bill-(receptionist))
+      - [Captain Dashboard (Order Taking)](#captain-dashboard-order-taking)
+      - [Supervisor Dashboard (Kitchen View)](#supervisor-dashboard-kitchen-view)
+      - [Generate Bill (Receptionist)](#generate-bill-receptionist)
   - [Screenshots](#screenshots)
 
 ## Description
